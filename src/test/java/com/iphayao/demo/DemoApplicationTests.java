@@ -1,4 +1,4 @@
-package com.iphayao.springbootsession;
+package com.iphayao.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBootSessionApplicationTests {
+public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
